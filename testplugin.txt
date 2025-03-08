@@ -1,9 +1,9 @@
 /**
- * @name MessageHighlighter
- * @author YourName
+ * @name testplugin
+ * @author Grant
  * @description Highlights messages containing a specified substring in the current channel.
  * @version 1.0.0
- * @source https://github.com/YourName/MessageHighlighter
+ * @source https://github.com/grantlyo/testplugin
  */
 
 module.exports = class MessageHighlighter {
